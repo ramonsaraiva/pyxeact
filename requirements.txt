@@ -1,0 +1,2 @@
+pyxel==0.7.10
+git+git://github.com/ReactiveX/RxPY.git@6282bb0d2cd01d9c46d0b256f26d02d4e76cb7dd
